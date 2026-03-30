@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c81&height=220&section=header&text=Arpan%20Majumdar&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Speech%20Forensics%20%E2%80%A2%20Multimodal%20Intelligence%20%E2%80%A2%20NLP%20%2F%20LLM%20%2F%20RAG&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c81&height=220&section=header&text=Arpan%20Majumdar&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Speech%20Forensics%20%E2%80%A2%20Multimodal%20Intelligence%20%E2%80%A2%20GenAI%2FRAG&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -32,13 +32,13 @@
 
 ### Who I Am
 
-AI systems engineer with an **M.Sc. in Data Science** from the University of Kalyani — focused on building production AI that goes beyond notebooks.
+Data Scientist and AI Systems Engineer with an **M.Sc. in Data Science** from the University of Kalyani, specializing in production-ready AI that bridges advanced academic research and enterprise engineering.
 
-My strongest work comes from an **industry R&D incubation program** where I design and deploy end-to-end systems spanning **speech forensics**, **multimodal deepfake detection**, **real-time telephony analysis**, **agentic RAG**, and **conversational AI** — all built for real users, real audio, and real-time constraints.
+I drive technical innovation across dual capacities: as a **Data Scientist at Insightrix Consultancy**, and as a core engineer within the **RKMV R&D Cell in industry collaboration with FaceOff Technology**. Through these institutional roles and specialized consulting engagements, I architect end-to-end intelligence systems—spanning **speech forensics**, **multimodal deepfake detection**, **agentic RAG**, and **real-time telephony analysis**.
 
 Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in multilingual NLP shared tasks.
 
-> *"I don't just train models. I build systems that listen, reason, detect, and deliver actionable intelligence — in real time."*
+> *"Whether leading R&D initiatives or consulting for commercial clients, I build systems that listen, reason, and deliver actionable intelligence—at scale and in real time."*
 
 </td>
 <td width="40%" valign="top" align="center">
