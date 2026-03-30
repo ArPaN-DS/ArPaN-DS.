@@ -169,7 +169,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/voice.png" width="200"/>
+<img src="assets/voice.png?v=2" width="200"/>
 
 <br/><br/>
 
@@ -246,7 +246,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/rag.png" width="200"/>
+<img src="assets/rag.png?v=2" width="200"/>
 
 <br/><br/>
 
