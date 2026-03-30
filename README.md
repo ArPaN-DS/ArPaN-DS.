@@ -43,7 +43,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1d2NnMnlnbTJ3OXRqNG5hOWZ1NDA2ZzA3Z3Z0aXZjd2djNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="assets/about.gif" width="300" />
 
 <br/>
 
@@ -164,7 +164,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU1ZGd0dGVqNnk0eWdncWV6dXI0eGpyZGV6cXhiNTcyZ2czMXVoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+<img src="assets/voice.gif" width="200"/>
 
 <br/><br/>
 
@@ -181,7 +181,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c0ZWE0aXI3aXJ5MjYydGFvN2MxYnA2OWZ4djI5ZjU0NDIyYXJ1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+<img src="assets/deepfake.gif" width="200"/>
 
 <br/><br/>
 
@@ -224,7 +224,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xlNHM0c3h6amdsNDgxcG90dGxydWRwb3gxeGo3dDl5bWFtZGNqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+<img src="assets/conv.gif" width="200"/>
 
 <br/><br/>
 
@@ -241,7 +241,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRwOTR3MXNhZDNlajFhcGU0ZjZqMGdyYno1NGZvMm5xdG52eWJobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btNhMBytxAM6YBa/giphy.gif" width="200"/>
+<img src="assets/rag.gif" width="200"/>
 
 <br/><br/>
 
