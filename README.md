@@ -239,8 +239,8 @@ Dual-LLM agentic RAG: Qwen-32B-AWQ (GPU, Flash Attention 2) as primary reasoning
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArPaN-DS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArPaN-DS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArPaN-DS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArPaN-DS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="49%"/>
 </p>
 
 <p align="center">
