@@ -43,7 +43,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="assets/about.gif" width="300" />
+<img src="assets/about.png" width="300" />
 
 <br/>
 
@@ -169,7 +169,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/voice.gif" width="200"/>
+<img src="assets/voice.png" width="200"/>
 
 <br/><br/>
 
@@ -186,7 +186,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/deepfake.gif" width="200"/>
+<img src="assets/deepfake.png" width="200"/>
 
 <br/><br/>
 
@@ -229,7 +229,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/conv.gif" width="200"/>
+<img src="assets/conv.png" width="200"/>
 
 <br/><br/>
 
@@ -246,7 +246,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/rag.gif" width="200"/>
+<img src="assets/rag.png" width="200"/>
 
 <br/><br/>
 
