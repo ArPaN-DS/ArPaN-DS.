@@ -103,10 +103,8 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td align="center"><b>Computer<br/>Vision</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ViT-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Face_Mesh-0f4c81?style=for-the-badge"/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="28"/></a>
+<img src="https://img.shields.io/badge/OCR-00A1EA?style=for-the-badge"/>
 </td>
 </tr>
 <tr>
