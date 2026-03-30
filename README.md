@@ -92,12 +92,16 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLaMA3-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qwen-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DeepSeek-0f4c81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-1f6feb?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-14213D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenClaw-FF4B4B?style=for-the-badge"/>
 </td>
 </tr>
 <tr>
@@ -112,6 +116,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <td align="center">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,flask,docker,aws,redis,postgres,mysql,mongodb,linux&theme=dark&perline=10" /></a>
 <br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSockets-1f6feb?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
