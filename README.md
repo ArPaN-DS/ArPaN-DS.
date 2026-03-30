@@ -90,6 +90,8 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <td align="center"><b>NLP, LLMs<br/>& GenAI</b></td>
 <td align="center">
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/BERT-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/T5-238636?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
