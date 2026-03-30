@@ -293,14 +293,32 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 
 <h2 align="center">Open Source Work</h2>
 
-<p align="center">
-  <a href="https://github.com/ArPaN-DS/music-mood-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArPaN-DS&repo=music-mood-classification&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" /></a>&nbsp;
-  <a href="https://github.com/ArPaN-DS/Bank-Customer-Classification-MLP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArPaN-DS&repo=Bank-Customer-Classification-MLP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ArPaN-DS/Fraud-Detection-Model-Development"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArPaN-DS&repo=Fraud-Detection-Model-Development&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" /></a>&nbsp;
-  <a href="https://github.com/ArPaN-DS/reddit-AI-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArPaN-DS&repo=reddit-AI-bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArPaN-DS/music-mood-classification">music-mood-classification</a></h3>
+      <p>Audio feature engineering (MFCCs, spectral contrast, chroma) + ML/DL for mood prediction. ~83% accuracy with Random Forest.</p>
+      <p><code>Python</code> <code>Librosa</code> <code>scikit-learn</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArPaN-DS/Bank-Customer-Classification-MLP">Bank-Customer-Classification-MLP</a></h3>
+      <p>Large-scale customer classification using MLP in PySpark with automated feature transformations and distributed preprocessing.</p>
+      <p><code>PySpark</code> <code>MLP</code> <code>Big Data</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArPaN-DS/Fraud-Detection-Model-Development">Fraud-Detection-Model-Development</a></h3>
+      <p>End-to-end fraud detection workflow with feature engineering, Random Forest achieving 94% accuracy, and precision/recall tuning.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>Pandas</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArPaN-DS/reddit-AI-bot">reddit-AI-bot</a></h3>
+      <p>LLM-powered Reddit bot with OpenAI GPT for intelligent comment generation and real-time automated response loops.</p>
+      <p><code>Python</code> <code>OpenAI</code> <code>PRAW</code></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>
@@ -315,12 +333,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArPaN-DS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArPaN-DS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArPaN-DS&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=58a6ff" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArPaN-DS&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=58a6ff" width="60%"/>
 </p>
 
 <p align="center">
