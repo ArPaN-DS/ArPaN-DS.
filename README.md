@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/metrics_dashboard.png" width="85%" />
+</p>
+
 <br/>
 
 <p align="center">
@@ -141,6 +145,20 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<!-- ═══════════════ SYSTEM ARCHITECTURE ═══════════════ -->
+
+<h2 align="center">How My Systems Work</h2>
+
+<p align="center">
+  <sub>An end-to-end intelligence pipeline — from raw wiretap audio to court-admissible forensic reports</sub>
+</p>
+
+<p align="center">
+  <img src="assets/architecture_flow.png" width="90%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <!-- ═══════════════ INDUSTRY R&D ═══════════════ -->
 
 <h2 align="center">Industry R&D — What I Build</h2>
@@ -186,7 +204,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/deepfake.png" width="200"/>
+<img src="assets/deepfake_viz.png" width="280"/>
 
 <br/><br/>
 
@@ -229,7 +247,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/conv.png" width="200"/>
+<img src="assets/conv_viz.png" width="280"/>
 
 <br/><br/>
 
@@ -343,6 +361,12 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArPaN-DS&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="98%"/>
+</p>
+
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArPaN-DS/ArPaN-DS/output/github-snake-dark.svg" width="98%" alt="Snake animation"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
