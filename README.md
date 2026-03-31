@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpan-majumdar-"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=jNlPhMUAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>&nbsp;
   <a href="https://www.kaggle.com/arpan0"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
   <a href="mailto:arpanmajumdar952@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/ArPaN-DS"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -385,6 +386,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpan-majumdar-"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=jNlPhMUAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>&nbsp;
   <a href="https://www.kaggle.com/arpan0"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
   <a href="mailto:arpanmajumdar952@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
