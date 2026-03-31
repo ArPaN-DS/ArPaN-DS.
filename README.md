@@ -247,7 +247,7 @@ Published researcher at **ACL 2025** and **CLEF 2025**. Competed globally in mul
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/conv_viz.png" width="280"/>
+<img src="assets/conv.png" width="200"/>
 
 <br/><br/>
 
